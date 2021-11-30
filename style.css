@@ -1,0 +1,25 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #518b87;
+}
+
+#projects {
+  background-color: #3a8d86;
+}
+
+footer {
+  background-color: #3a8d86;
+}
+
+#pengurus {
+  text-align: center;
+  color: rgb(219, 223, 224);
+}
+
+img {
+  cursor: pointer;
+}
